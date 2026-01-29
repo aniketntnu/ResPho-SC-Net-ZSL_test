@@ -1,0 +1,24 @@
+# ResPho-SC-Net-ZSL
+
+This is code for paper "ResPho(SC)Net A Zero-Shot Learning Framework for Norwegian Handwritten Word Recognition"
+
+
+Instruction to run
+
+1. Create Virtual environment from file env.txt
+
+
+2.  use command python3 main_1.py
+
+
+python3 main.py --name ./ECCV/ResNet18 --mode train --epochs 100 --stopCode 10 --flagFile ./stopFlags/flagResphoscLogs.txt --model ResNet18Phosc --lr 0.0001 --phos_size 180 --phoc_size 646 --language eng 
+--train_csv /cluster/datastore/aniketag/allData/ResPhoscNetData//IAM_train_original_cleaned.csv 
+--train_folder /cluster/datastore/aniketag/allData/ResPhoscNetData//train/images/ 
+--valid_csv /cluster/datastore/aniketag/allData/ResPhoscNetData//IAM_valid_cleaned.csv 
+--valid_folder /cluster/datastore/aniketag/allData/ResPhoscNetData//valid/images 
+--test_csv_seen /cluster/datastore/aniketag/allData/ResPhoscNetData//IAM_test_cleaned.csv 
+--test_folder_seen /cluster/datastore/aniketag/allData/ResPhoscNetData//test/images 
+--test_csv_unseen /cluster/datastore/aniketag/allData/ResPhoscNetData//IAM_test_cleaned.csv 
+--test_folder_unseen /cluster/datastore/aniketag/allData/ResPhoscNetData//test/images/  
+--batch_size 32 
+--pretrained_weights /cluster/datastore/aniketag/rasesh/ResPho-SC-Net-ZSL/ECCV/ResNet18/ResNet18.pt

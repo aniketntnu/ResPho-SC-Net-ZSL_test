@@ -1,0 +1,243 @@
+INFO:root:--- resphoscnet ---
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 103.3204
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 103.2997
+INFO:root:1.Starting epoch 2/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 2 training complete. Mean loss: 102.0224
+INFO:root:1.Starting epoch 3/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 111.8719
+INFO:root:1.Starting epoch 2/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 111.8939
+INFO:root:1.Starting epoch 2/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 2 training complete. Mean loss: 111.8767
+INFO:root:1.Starting epoch 3/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 3 training complete. Mean loss: 111.8852
+INFO:root:1.Starting epoch 4/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 111.8891
+INFO:root:1.Starting epoch 2/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 2 training complete. Mean loss: 111.8779
+INFO:root:1.Starting epoch 3/100
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 3 training complete. Mean loss: 111.8715
+INFO:root:1.Starting epoch 4/100
+INFO:root:1.MSE calc
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:Calling testing at epoch 1
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:Calling testing at epoch 1
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:Calling testing at epoch 1
+INFO:root:--- resphoscnet ---
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:resphoscnet:LOADED RESNET34 PRETRAINED MODEL!!!
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:1.Starting epoch 1/100
+INFO:root:Calling testing at epoch 1
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 1 training complete. Mean loss: 111.8881
+INFO:root:1.Starting epoch 2/100
+INFO:root:Calling testing at epoch 2
+INFO:root:1.MSE calc
+INFO:root:2.MSE calc
+INFO:root:Epoch 2 training complete. Mean loss: 111.8945
+INFO:root:1.Starting epoch 3/100
+INFO:root:Calling testing at epoch 3
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
+INFO:root:--- resphoscnet ---
+INFO:resphoscnet:--- resphoscnet ---
+INFO:root:Dataset created with 34546 training samples.
+INFO:root:Dataset created with 9064 validation samples.
